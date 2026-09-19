@@ -40,16 +40,20 @@ R2=39 KΩ
 
 
   **CIRCUIT DIAGRAM**
+<img width="860" height="1016" alt="WhatsApp Image 2026-09-19 at 6 14 49 AM" src="https://github.com/user-attachments/assets/a81367fe-cb0d-4646-81d9-8f045236997f" />
 
 
   **MODEL GRAPH:**
+<img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 14 50 AM" src="https://github.com/user-attachments/assets/c5ff07bb-a545-421f-9c6f-17d02044df49" />
 
 
   **TABULATION:**
- 
+ <img width="860" height="1016" alt="WhatsApp Image 2026-09-19 at 6 14 49 AM" src="https://github.com/user-attachments/assets/a8051081-c7c2-4808-ad15-5b95224c1b09" />
+
 
 **MODEL CALCULATION:**
 
+<img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 14 49 AM (1)" src="https://github.com/user-attachments/assets/e17c2f49-b7b7-47e0-97eb-6128d09080ea" />
 
 
 **RESULT:**
