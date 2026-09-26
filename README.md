@@ -40,20 +40,22 @@ R2=39 KΩ
 
 
   **CIRCUIT DIAGRAM**
-<img width="860" height="1016" alt="WhatsApp Image 2026-09-19 at 6 14 49 AM" src="https://github.com/user-attachments/assets/a81367fe-cb0d-4646-81d9-8f045236997f" />
+<img width="753" height="583" alt="image" src="https://github.com/user-attachments/assets/c48c1635-f9ee-4ec1-b91c-42e6b80878f1" />
+
 
 
   **MODEL GRAPH:**
-<img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 14 50 AM" src="https://github.com/user-attachments/assets/c5ff07bb-a545-421f-9c6f-17d02044df49" />
+
+<img width="925" height="1178" alt="image" src="https://github.com/user-attachments/assets/e026c7a1-aff6-420f-af91-33d2604156b5" />
 
 
   **TABULATION:**
- <img width="860" height="1016" alt="WhatsApp Image 2026-09-19 at 6 14 49 AM" src="https://github.com/user-attachments/assets/a8051081-c7c2-4808-ad15-5b95224c1b09" />
+<img width="1333" height="511" alt="image" src="https://github.com/user-attachments/assets/50262f74-792e-4dbb-bca7-cd6191be1ece" />
 
 
 **MODEL CALCULATION:**
+<img width="940" height="1307" alt="image" src="https://github.com/user-attachments/assets/4fdba2e2-26a9-4adb-9636-bf0215b69ec5" />
 
-<img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 14 49 AM (1)" src="https://github.com/user-attachments/assets/e17c2f49-b7b7-47e0-97eb-6128d09080ea" />
 
 
 **RESULT:**
